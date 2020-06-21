@@ -1,0 +1,66 @@
+[
+  {
+    "text": "yep",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.6052586864017834
+    }
+  },
+  {
+    "text": "thanq",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  },
+  {
+    "text": "Prayagraj",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  },
+  {
+    "text": "500053",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  },
+  {
+    "text": "400067",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  },
+  {
+    "text": "411009",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  },
+  {
+    "text": "600101",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  },
+  {
+    "text": "320008",
+    "intent": "restaurant_search",
+    "intent_prediction": {
+      "name": "send_email",
+      "confidence": 0.5536214503722354
+    }
+  }
+]
