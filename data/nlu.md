@@ -66,6 +66,7 @@
 - ola
 
 ## intent:restaurant_search
+- Can you suggest me some good place to eat
 - i'm looking for a place to eat
 - I want to grab lunch
 - good restaurants in [Agra](location)
@@ -358,7 +359,8 @@
 - [Rs.300 to 700](budget)
 
 ## intent:send_email
-- send to [mock123@gmail.com](email)
+- [dinesh@outlook.com](email)
+- send to [test@gmail.com](email)
 - yes, it is [snt121@gmail.com](email)
 - please send it to [abs_cd@yahoo.com](email)
 - yep [mock_mail@gmail.co.in](email)
@@ -368,14 +370,12 @@
 - [testing_mail@mail.co.uk](email)
 - sure at [testingmail12.am@yahoo.com](email)
 - [abc@ok.work.in](email)
-- yes at [shriya181@gmail.com](email)
-- yes at [shriyashashidhar@gmail.com](email)
-- [shriya181@gmail.com](email)
+- yes at [dineshkumarjangid@gmail.com](email)
 - yes sure at [ahbcdjk@dkj.com](email)
 - [testbot@ugrad.co.in](email)
 - [jdffk.12js@ngjg.co.in](email)
 - yes [sendmail@gmail.com]
-- [sharadsharmam@gmail.com](email)
+- [prasanna0251@gmail.com](email)
 
 ## synonym: Bokaro
 - Bokaro Steel City
@@ -394,6 +394,7 @@
 
 ## synonym: Kochi
 - cochin
+- Cochi
 
 ## synonym:Ahmedabad
 - 320008
@@ -420,8 +421,10 @@
 
 ## synonym:Bengaluru
 - Bnagalore
+- Banglore
 - Bnagaluru
 - 560078
+- 560066
 - 560035
 - 560028
 - Bangalore
@@ -458,6 +461,7 @@
 ## synonym:Delhi NCR
 - Dilli
 - Dehli
+- Dili
 - Gurgaon
 - Gurugram
 - Noida
@@ -514,6 +518,8 @@
 - high range
 - above 700
 - Above 700
+- Costly
+- No cap
 
 ## synonym:Mumbai
 - mumbaim
@@ -576,6 +582,7 @@
 - less than 700
 - above 300 below 700
 - 300-700 range
+- medium range
 
 ## synonym:Salem
 - Selam
@@ -614,6 +621,7 @@
 
 ## synonym:bangalore
 - bengaluru
+- Banglore
 
 ## synonym:chinese
 - chines
